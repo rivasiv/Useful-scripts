@@ -1,0 +1,7 @@
+#
+
+# Disable wrong certificate issue in git: 
+git config --global http.sslVerify false
+
+#
+
