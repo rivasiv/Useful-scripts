@@ -25,3 +25,4 @@ cd ../build/
 ../src/strace-4.16/./configure --prefix=/home/rivasiv/workbench/strace/final --host=$TARGETMACH
 make LDFLAGS=-static
 make install
+
